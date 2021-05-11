@@ -5,8 +5,7 @@ After going through many different solutions, i decided to restart the entire ap
 This project is a web application that uses Pycharm to setup a Dcoker and Flask App.
 
 # Team Members
-Basil Davies
-
-Mizan Rahman
+Basil Davies- Login
+Mizan Rahman- Statistics
 
 
