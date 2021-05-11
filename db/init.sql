@@ -1,5 +1,5 @@
-CREATE DATABASE addressesData;
-use addressesData;
+CREATE DATABASE citiesData;
+use citiesData;
 
 CREATE TABLE IF NOT EXISTS addresses (
     `John` VARCHAR(21) CHARACTER SET utf8,
