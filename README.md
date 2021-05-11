@@ -6,7 +6,9 @@ After going through many different solutions, i decided to restart the entire ap
 [View Assignment Video Here](https://youtu.be/QbMWNgrfAFg)
 
 # Project Part 4 Screenshot
-
+![Pycharm Part 3](screenshots/apprunning.png)
+![Pycharm Part 3](screenshots/newdatabase.png)
+![Pycharm Part 3](screenshots/dockerrunning.png)
 # Project Part 3 Screenshot
 ![Pycharm Part 3](screenshots/part3.png)
 # Project Part 2 Screenshot
