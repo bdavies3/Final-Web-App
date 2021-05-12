@@ -5,7 +5,9 @@ After going through many different solutions, i decided to restart the entire ap
 This project is a web application that uses Pycharm to setup a Dcoker and Flask App.
 
 # Team Members
-Basil Davies- Login
-Mizan Rahman- Statistics
+<br>Basil Davies- Login
+<br>Mizan Rahman- Statistics
 
-
+# Download Instructions
+Clone the repo and run the docker project on Pycharm.
+Click Flask app and got to the local host, click on the local host and run the app. 
