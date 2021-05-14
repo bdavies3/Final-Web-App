@@ -24,6 +24,15 @@ def index():
     result = cursor.fetchall()
     return render_template('index.html', title='Home', user=user, cities=result)
 
+@app.route('/chart', methods=['GET'])
+def show_chart():
+    user = {'username': 'Mizan Project'}
+    cursor = mysql.get_db().cursor()
+    cursor.execute('SELECT * FROM tblCitiesImport')
+    result = cursor.fetchall()
+    legend = 'World Population'
+    return render_template('chart.html', population='Population', chart='chart', cities=result, legend=legend)
+
 
 @app.route('/view/<int:city_id>', methods=['GET'])
 def record_view(city_id):
