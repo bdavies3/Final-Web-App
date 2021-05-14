@@ -90,7 +90,7 @@ def index():
 
 @app.route('/chart', methods=['GET'])
 def show_chart():
-    user = {'username': 'Team Project'}
+    user = {'username': 'Cities Project'}
     cursor = mysql.get_db().cursor()
     cursor.execute('SELECT * FROM tblCitiesImport')
     result = cursor.fetchall()
