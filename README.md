@@ -6,7 +6,9 @@ This project is a web application that uses Pycharm to setup a Dcoker and Flask 
 
 # Team Members
 <br>Basil Davies- Login
-<br>Mizan Rahman- Statistics
+<br>Mizan Rahman- Statistics - 	Commit: @app.route('/chart', methods=['GET']); chart.html and added class chart header in layout page.
+
+
 
 # Download Instructions
 Clone the repo and run the docker project on Pycharm.
